@@ -202,3 +202,7 @@ Visit http://localhost:4002 to browse all components with their variations.
 ## License
 
 MIT
+
+## Background
+
+This code was generated using an LLM.
